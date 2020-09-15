@@ -1,0 +1,154 @@
+
+    
+
+          
+body{
+
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(https://www.itl.cat/pngfile/big/40-409436_black-and-white-colour-wallpapers-au-mf-desktop.jpg)
+
+}
+
+.img{
+width: 20vw;
+height: 17vw;
+position: absolute; top: 250px; left: 550px; right: 50px;
+
+}
+.imgContact{
+    width: 20vw;
+    height: 17vw;
+    position: absolute; top: 250px; left: 550px; right: 50px;
+    opacity: 15%;
+}
+.imgAbout{
+    width: 20vw;
+    height: 17vw;
+    position: absolute; top: 250px; left: 550px; right: 50px;
+    opacity: 15%;
+}
+.imgWork{
+    width: 20vw;
+    height: 17vw;
+    position: absolute; top: 250px; left: 550px; right: 50px;
+    opacity: 15%;
+}
+
+
+ul {
+   position: absolute; left: 400px;
+    list-style-type: none;
+    
+    padding-top: 40px;
+    overflow: hidden;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    
+  }
+
+
+  li{
+      display: inline;
+      font-weight: bold;
+
+      }
+
+      li a {
+        color: #231F20;
+        padding: 8px;
+        font-family: cursive;
+        font-weight: bold;
+    text-anchor: middle;
+margin-right: 40px;
+text-decoration: none;
+font-size: 25px;
+
+            }
+           .me{
+            position: absolute; top: 300px; left: 140px; right: 170px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+text-align: center;
+           }
+
+
+
+          
+        
+        .container {
+            padding: 10px 24px 24px 24px;
+            margin: 130px 12px 130px 12px;
+            background: #8B898A;
+            border-radius: 4px;
+            opacity: 70%;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        
+         
+        label {
+            font-size: 0.85em;
+            margin-left: 12px;
+        }
+        
+         
+        input[type=text],input[type=email], textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+        
+         
+        input[type=text]:focus,input[type=email]:focus, textarea:focus {
+            border: 1px solid green;
+        }
+        
+         
+        input[type=submit] {
+            background: #64B5F6; opacity: 100%;
+            margin: 0 auto;
+            outline: 0;
+            color: white;
+            border: 0;
+            padding: 12px 24px;
+            border-radius: 4px;
+            transition: all ease-in-out 0.1s;
+            position: relative;
+            display: inline-block;
+            text-align: center;
+            opacity: 100%;
+        }
+        
+        
+        input[type=submit]:focus {
+            background: #A5D6A7;
+            color: whitesmoke;
+        }
+        
+        
+        input[type=submit]:hover {
+            background: #0c0102;
+        }
+        
+       
+        .center {
+            text-align: center;
+        }
+
+        .cc{
+position: relative; bottom: 122px; right: 8px;
+        }
+
+.TT{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+position: absolute; top: 200px; left: 260px;
+text-align: center;
+}
+
